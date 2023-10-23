@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competetive Programming,AI,Machine learning
 - 🌱 I’m currently learning C/C++/Python
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me - Email - tanay.gta7@gmail.com
+- 📫 How to reach me - Email - tripathidevansh226@gmail.com
 
 <!---
 IamTANAYTRIPATHI/IamTANAYTRIPATHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
